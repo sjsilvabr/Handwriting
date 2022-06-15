@@ -1,4 +1,4 @@
-# Handwritting Images Classification
+# Handwriting Images Classification
 
 ### Sidclay da Silva
 
